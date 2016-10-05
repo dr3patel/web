@@ -58,7 +58,7 @@ bl {
     clear:both;
     text-align:center;
     padding:5px;
-    font-size: 12px;
+    font-size: 8px;
     color: #FFFFFF
 }
  
@@ -78,11 +78,11 @@ li a {
     text-align: center;
     padding: 20px 20px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 a{
-    color: #57068C;
+    color: #002A5C; /*#57068C*/ ;
 }
 
 ti {
@@ -92,7 +92,7 @@ ti {
 
 ti a {
     display: block;
-    color: #57068C;
+    color: #002A5C; /*#57068C*/ ;
     padding: 10px 10px;
     text-decoration:none;
     width:210px;
@@ -104,24 +104,24 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #57068C;
+    background-color: #002A5C; /*#57068C*/ ;
 }
 
 h1.sansserif {
-        color: #57068C;
+        color: #002A5C; /*#57068C*/ ;
 }
 
 h2.sansserif {
-        color: #57068C;
+        color: #002A5C; /*#57068C*/ ;
 }
 
 h3.sansserif {
-        color: #57068C;
+        color: #002A5C; /*#57068C*/ ;
         padding: 0;
 }
 
 h4.sansserif {
-        color: #57068C;
+        color: #002A5C; /*#57068C*/ ;
 }
 
 p.sansserif {
@@ -148,7 +148,7 @@ div{
 }
 
 hr{
-    background-color: #57068C;
+    background-color: #002A5C; /*#57068C*/ ;
     height: 3px;
     border: none;
     margin-top: 2%;
