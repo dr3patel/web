@@ -1,8 +1,9 @@
 html *
 {   
-    font-family: "verdana", "Helvetica", "sans-serif" !important;
-    font-family: "calibri", "Helvetica", "sans-serif" !important;
-    font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif" !important;
+/*    font-family: "verdana", "Helvetica", "sans-serif" !important;*/
+/*    font-family: "calibri", "Helvetica", "sans-serif" !important;*/
+/*    font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif" !important;*/
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important; 
     text-decoration: none;
     box-sizing: border-box;
 }
@@ -155,3 +156,13 @@ hr{
     margin-bottom: 1%;   
 }
 
+myDiv {
+    padding:0;
+    margin-top:200px;
+    margin-bottom:0px;
+    margin-right:0px;
+    margin-left:0px;
+    background-color:#white;
+    height:100%;
+    text-align:justify;
+}
