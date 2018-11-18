@@ -9,8 +9,9 @@ html *
 }
 
 html{
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
+    width: auto;
 }
 
 .newspaper {
@@ -30,11 +31,10 @@ html{
 }
 
 body {    
-    margin:0%;
+    margin:0% auto;
     padding: 0px;
     width:1200px;
     align-items: center;
-    
 }
 
 ul {
@@ -158,13 +158,14 @@ hr{
 
 <style>
 #myDiv {
-    padding:0;
+    padding:100;
+    margin: auto;
     margin-top:200px;
     margin-bottom:0px;
     margin-right:0px;
     margin-left:0px;
-    background-color:#white;
+    background-color:#002A5C;
     height:100%;
-    text-align:justify;
+    text-align:center;
 }
 </style>
