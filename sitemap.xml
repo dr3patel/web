@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http:www.w3.org/1999/xhtml">
+
+    <url>
+      <loc>http://www.eecg.utoronto.ca/~dr.patel/</loc>
+    </url>
+
+    <url>
+      <loc>http://www.eecg.utoronto.ca/~dr.patel/cv.html</loc>
+    </url>
+
+    <url>
+      <loc>http://www.eecg.utoronto.ca/~dr.patel/education.html</loc>
+    </url>
+
+    <url>
+      <loc>http://www.eecg.utoronto.ca/~dr.patel/research.html</loc>
+    </url>
+
+    <url>
+      <loc>http://www.eecg.utoronto.ca/~dr.patel/projects.html</loc>
+    </url>
+    
+    <url>
+      <loc>http://www.eecg.utoronto.ca/~dr.patel/about.html</loc>
+    </url>
+    
+    <url>
+      <loc>http://www.eecg.utoronto.ca/~dr.patel/contact.html</loc>
+    </url>
+
+</urlset>
